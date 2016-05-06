@@ -2,9 +2,7 @@
 aadyslexie.zorgring.nl
 aaenhunze.nl
 aalburg.nl
-aalsmeer.nl
-aatop.nl
-abakus.nl
+test.nl
 abctwente.nl
 abeltasman.st-er.nl
 actiezorg.nl
